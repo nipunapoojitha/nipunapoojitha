@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm NipunaPoojitha! 👋
 
-<!--
-**nipunapoojitha/nipunapoojitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a software developer with a passion for open-source projects and creating impactful software solutions.
 
-Here are some ideas to get you started:
+### Skills
+- Programming Languages: Python, JavaScript, C++
+- Frameworks: React, Node.js, Django
+- Tools: Git, Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- 
+
+### Contact Me
+- [LinkedIn](https://www.linkedin.com/in/nipunapoojitha)
+- [Email](mailto:nipunapoojitha@gmail.com)
